@@ -1,6 +1,6 @@
 # Curso_Git_GitHub
 
-"Curso de Git e GitHub: Minha Jornada de Aprendizado
+"Curso de Git e GitHub: Minha Jornada de Aprendizado"
 
 Neste espaço, vou compartilhar minha jornada de aprendizado sobre Git e GitHub. Como aluna entusiasta, estou explorando essas poderosas ferramentas.
 
